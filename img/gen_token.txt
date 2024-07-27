@@ -1,0 +1,4 @@
+bg-index:
+幫我生成一個圖片，尺寸是1900*1267
+色調為白色、tiffany綠、咖啡色等，風格是清新風，圖片內不可以有中文或英文等文字字符，需要有一種正在寫作的感覺，並描述以下內容:
+Explore and master the universe of data technologies. Dive into analytics, engineering, and everything in between.

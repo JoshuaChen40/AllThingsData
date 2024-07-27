@@ -1,0 +1,25 @@
+title:              All Things Data
+email:              rfed5440@gmail.com
+description:        Explore and master the universe of data technologies. Dive into analytics, engineering, and everything in between.
+author:             Start Bootstrap
+baseurl:            "/AllThingsData"
+url:                "https://joshuachen40.github.io"
+
+# Social Profiles
+# twitter_username:   
+github_username:    
+# facebook_username:  
+# instagram_username:  
+linkedin_username: josh-chen-38b197244
+
+# Add your google-analytics ID here to activate google analytics
+# google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
